@@ -1,0 +1,9 @@
+3 Pole Motor Specs
+
+Minimum operating voltage: 15 V (roughly, depends on friction)
+Maximum tested voltage: 30 V (limitation of power supply, performance at higher voltages unknown)
+
+Tested voltage: 20 V
+Current: 3.4 +- 0.1 A
+RPM: 1800 (No Load)
+Static Torque: Not measureable with our equipment, but small
